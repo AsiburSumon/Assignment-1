@@ -69,3 +69,25 @@ h3{
     width: 60%;
     margin-bottom: 35px;
 }
+.donate-plan{
+    width: 300px;
+    height: 320px;
+    background-color: aquamarine;
+    padding: 15px;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+.donate{
+    display: flex;
+    width: 70%;
+    margin-left: 15%;
+}
+#food{
+    background-color: rgba(170, 248, 222, 0.473);
+}
+#shelter{
+    background-color: rgba(170, 178, 245, 0.534);
+}
+#education{
+    background-color: rgba(250, 189, 189, 0.534);
+}
