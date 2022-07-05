@@ -4,18 +4,26 @@ body{
 }
 h1{
     font-size: 65px;
-    color: tomato;
+    color: rgb(151, 214, 235);
     
 }
-p{
+h2{
+    font-size: 35px;
+}
+h3{
+    color: gray;
+}
+.cover p{
     color: white;
+}
+.all-section{
+    margin-bottom: 140px;
 }
 .banner{
     background-image: url(images/cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 0;
-    margin-bottom: 120px;
 }
 .cover{
     text-align: center;
@@ -27,4 +35,25 @@ p{
     color: white;
     padding: 9px;
     border-radius: 5px;
+}
+.middle-part{
+    text-align: center;
+}
+.donation{
+    display: flex;
+    margin-left: 30%;
+}
+.donation-ammount{
+    width: 100px;
+    height: 80px;
+    background-color: rgb(229, 235, 232);
+    margin-left: 20px;
+    text-align: center;
+}
+#taka{
+    background-color: rgb(243, 174, 174);
+    border: 2px solid red;
+}
+#taka h3{
+    color: red;
 }
