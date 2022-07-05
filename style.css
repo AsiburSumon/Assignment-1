@@ -17,7 +17,7 @@ h3{
     color: white;
 }
 .all-section{
-    margin-bottom: 140px;
+    margin-bottom: 120px;
 }
 .banner{
     background-image: url(images/cover.jpg);
@@ -90,4 +90,50 @@ h3{
 }
 #education{
     background-color: rgba(250, 189, 189, 0.534);
+}
+.how-to-donate{
+    display: flex;
+    margin-bottom: 50px;
+}
+.help-for-donate{
+    width: 30%;
+    margin-left: 14%;
+}
+.help-for-donate img{
+    width: 80%;
+    border-radius: 10px;
+}
+form{
+    width: 70%;
+    height: 120px;
+    text-align: center;
+    background-color: rgba(243, 212, 198, 0.562);
+    margin-left: 15%;
+    padding-top: 5%;
+}
+#email{
+    width: 30%;
+    height: 25%;
+    background-color: rgba(128, 128, 128, 0.336);
+    border: .5px solid  rgba(128, 128, 128, 0.336);
+}
+#button{
+    width: 16%;
+    height: 30%;
+    background-color: rgba(255, 99, 71, 0.856);
+    border: .5px solid  rgba(255, 99, 71, 0.856);
+    border-radius: 5px;
+}
+footer{
+    background-color: black;
+    margin-bottom: 0%;
+}
+#footer-text{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+#footer-pra{
+    color: white;
+    text-align: center;
 }
