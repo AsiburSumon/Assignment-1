@@ -62,8 +62,10 @@ h3{
     text-align: center;
     margin-bottom: 100px;
 }
-.ammount-part p{
-    color: rgb(199, 195, 195);
+.ammount-part input{
+    outline-style: none;
+    border: none;
+    margin-top: 20px;
 }
 .ammount-part hr{
     width: 60%;
