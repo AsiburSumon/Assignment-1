@@ -13,11 +13,15 @@ h2{
 h3{
     color: gray;
 }
-.cover p{
-    color: white;
-}
 .all-section{
     margin-bottom: 120px;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 9px;
+    border-radius: 5px;
 }
 .banner{
     background-image: url(images/cover.jpg);
@@ -29,12 +33,8 @@ h3{
     text-align: center;
     padding: 25px;
 }
-.button{
-    text-decoration: none;
-    background-color: tomato;
+.cover p{
     color: white;
-    padding: 9px;
-    border-radius: 5px;
 }
 .middle-part{
     text-align: center;
