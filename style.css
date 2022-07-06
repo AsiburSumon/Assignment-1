@@ -4,7 +4,7 @@ body{
 }
 h1{
     font-size: 65px;
-    color: tomato;
+    color: rgb(255, 255, 255);
     
 }
 h2{
@@ -20,7 +20,7 @@ h3{
     margin-bottom: 120px;
 }
 .banner{
-    background-image: url(images/cover.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 0;
@@ -126,6 +126,9 @@ form{
 }
 footer{
     background-color: black;
+    width: 100%;
+    height: 120px;
+    padding-top: 10px;
 }
 #footer-text{
     font-family: 'Lobster', cursive;
